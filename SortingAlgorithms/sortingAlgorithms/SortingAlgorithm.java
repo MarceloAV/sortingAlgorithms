@@ -2,7 +2,10 @@ package sortingAlgorithms;
 
 public class SortingAlgorithm {
 
-	// Test edition git
+	// Removing last comment
+	// Adding new one
+
+	int x;
 
 	private int[] array;
 
