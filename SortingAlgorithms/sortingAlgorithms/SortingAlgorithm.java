@@ -6,6 +6,7 @@ public class SortingAlgorithm {
 	// Adding new one
 
 	int x;
+	int y;
 
 	private int[] array;
 
