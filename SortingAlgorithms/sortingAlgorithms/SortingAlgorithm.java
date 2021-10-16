@@ -2,6 +2,8 @@ package sortingAlgorithms;
 
 public class SortingAlgorithm {
 
+	// Test edition git
+
 	private int[] array;
 
 	public SortingAlgorithm(int[] array) {
